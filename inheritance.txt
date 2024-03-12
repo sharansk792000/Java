@@ -1,0 +1,11 @@
+Constructing a new class from existing class in such a way that the new class 
+ has access to all the features and properties of the existing class.
+ Extends keyword is used.
+ provides reusability
+cannot access private members of class through inheritance
+types of inheritance:
+    Single/simple inheritance - one super class will have 1 subclass.
+    multilevel inheritance -  super class will have multiple subclass where it inherits from previous class.
+    multiple inheritance - not supported by java
+    hierarchichal inheritance - sub class is directly connected to super class where each sub class can have their own methods
+ 

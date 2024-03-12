@@ -17,6 +17,6 @@ public class copyconst {
 class view{
     public static void main(String[] args){
         copyconst r = new copyconst();
-        copyconst r2 = new copyconst(r);
+        copyconst r1 = new copyconst(r);
     }
 }

@@ -1,0 +1,3 @@
+In multiple inheritance to mitigate memory duplication it is not allowed
+>>for eg if 2 class contain same method name
+>>when subclass had to import from super class it will create a confusion.

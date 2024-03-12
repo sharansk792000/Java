@@ -1,0 +1,9 @@
+In this poly is meant by many and morphism as forms
+ polymorphism is which has same object having different behaviour
+ has 2 types
+    --compile time polymorphism
+    --run time polymorphism
+
+--complie time polymorphism
+   --polymorphism which exists at the time of compilation is called compile time polymorphism or early binding or static polymorphism 
+
