@@ -7,3 +7,6 @@ In this poly is meant by many and morphism as forms
 --complie time polymorphism
    --polymorphism which exists at the time of compilation is called compile time polymorphism or early binding or static polymorphism 
 
+--Run time polymorphism
+   --polymorphism which exists at the time of execution of program is called runtime polymorphism.
+
