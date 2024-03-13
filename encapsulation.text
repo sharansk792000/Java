@@ -1,0 +1,3 @@
+Here in encapsulation we wrap data members, member methods of class in a single unit called encapsulation
+    --declare class variables as private.
+    --declare class methods as public.

@@ -10,6 +10,7 @@ public class methdoverriding {
 class square extends methdoverriding{
     @Override
     void draw(){
+        super.draw(); //calls super class method, to call super class
         System.out.println("This is a square");
     }
 
