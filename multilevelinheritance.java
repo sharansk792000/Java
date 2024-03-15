@@ -10,6 +10,7 @@ class multilevelinheritance {
         System.out.println("enter values for a and b");
         a = sc.nextInt();
         b = sc.nextInt();
+        sc.close();
     }
 }
 class add extends multilevelinheritance{

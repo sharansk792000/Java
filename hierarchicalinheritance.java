@@ -10,6 +10,7 @@ public class hierarchicalinheritance {
         System.out.println("insert a and b");
         a = sc.nextInt();
         b = sc.nextInt();
+        sc.close();
     }
 }
 
