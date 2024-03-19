@@ -3,7 +3,7 @@
  as all the methods in interface must be implemented in all the classes we implement
  but after java jdk 1.8 it changed and it is optional to user 
  here we user default in fornt of method declaration
- and its is optional to use in different class
+ and its is optional to use in different class 
  */
 interface defaultinterface{
   void a1();
