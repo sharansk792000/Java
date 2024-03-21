@@ -6,6 +6,7 @@
  * throw
  * throws
  * finally
+ * very good to print error or any doubts
  */
 public class exception {
   public static void main(String[] args) {
